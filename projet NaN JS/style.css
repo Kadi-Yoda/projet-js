@@ -1,0 +1,88 @@
+#container{
+	position: relative;
+	top: 150px;
+
+}
+#container h1{
+	position: relative;
+	text-align: center;
+	font-family: comics sans ms;
+	top:50px;
+
+	
+}
+#container p{
+	position: relative;
+	top:50px;
+}
+#Titre{
+	position: relative;
+	display: block;
+	margin-left:400px;
+	font-size: 50px;
+	color:#8A2BE2 ;
+
+}
+.btn{
+	position: relative;
+	margin-left: 120px;
+	width: 100px;
+	height: 40px;
+
+}
+ img{
+	position: relative;
+	top: 70px;
+	left: 50px;
+}
+#container img{
+	position: relative;
+	top: 50px;
+	left: 90px;
+
+}
+
+#container h2{
+	position: relative;
+	top: 20px;
+	left: 50px;
+	font-family: comics sans ms;
+}
+#nav ul {
+	margin:0;
+	list-style: none;
+}
+#nav li{
+	border:1px solid white; 
+	background-color:#D8BFD8 ;
+	width: 150px;
+	float: right;
+	margin: 1px;
+	text-align: center;
+	border-radius: 30px;
+	
+
+}
+#nav ul li a{
+	display: block;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	font-size: 20px;
+	text-decoration: none;
+	color: #FFF;
+}
+#nav {
+	position: relative;
+	display: block;
+	right: 450px;
+	top: 60px;
+}
+.btn{
+	position: relative;
+	bottom: 30px;
+	left: 500px;
+}
+#accueil img{
+	position: relative;
+	bottom: 60px;
+}
